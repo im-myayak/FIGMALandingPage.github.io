@@ -866,18 +866,21 @@ li a {
     border-radius: 3.80591px;
 }
 
-/* .plat-one .plat-name i {
-    background: url(mafe-camerounais-16750);
+.plat-one .plat-name i {
+    background: url(./Images/sauce-arachide-mini.png);
 }
+
 .plat-two .plat-name i {
-    background: url(mafe-camerounais-16750);
+    background: url(./Images/foutou_mini.png);
 }
+
 .plat-three .plat-name i {
-    background: url(mafe-camerounais-16750);
+    background: url(./Images/riz-gras_mini.png);
 }
+
 .plat-four .plat-name i {
-    background: url(mafe-camerounais-16750);
-} */
+    background: url(./Images/sauce-arachide-mini.png);
+}
 
 .btn-commander {
     position: absolute;
