@@ -21,7 +21,8 @@
 
 #home-page-header {
     display: flex;
-    position: absolute;
+    position: fixed;
+    z-index: 999;
     width: 1240px;
     left: 100px;
     right: 100px;
