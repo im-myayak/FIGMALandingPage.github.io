@@ -591,8 +591,8 @@ li a {
     height: 350px;
     left: 100px;
     top: 1800px;
-
-    background: linear-gradient(0deg, rgba(255, 87, 87, 0.9), rgba(255, 87, 87, 0.9)), url(icons-bg.jpg);
+    background: url(./Images/Rectangle_1.png);
+    /* background: linear-gradient(0deg, rgba(255, 87, 87, 0.9), rgba(255, 87, 87, 0.9)), url(icons-bg.jpg); */
     border-radius: 40px;
 
 }
