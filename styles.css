@@ -16,14 +16,16 @@
     height: 978px;
     left: 0px;
     top: 0px;
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(nMvKgRVePK.jpg);
+    background-image: url(./Images/home_background.jpg);
+    /* background: linear-gradient(0deg, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(nMvKgRVePK.jpg); */
 }
 
 #home-page-header {
     display: flex;
     position: fixed;
     z-index: 999;
-    width: 86.11%;
+    width: 1240px;
+    right: 100px;
     left: 100px;
     right: 100px;
     top: 0px;
