@@ -1616,7 +1616,7 @@ footer {
 
 }
 
-footer h2 {
+footer h2 a {
     position: absolute;
     width: 151px;
     height: 29px;
