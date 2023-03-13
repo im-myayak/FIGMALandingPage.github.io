@@ -1560,14 +1560,14 @@ footer .icons-div a,
     padding: 10px 20px;
     gap: 10px;
     border: none;
-    width: 41.64%;
+    width: 70.64%;
     height: 41px;
     background: linear-gradient(90.42deg, #FF1616 -15.79%, #5CE1E6 89.24%);
     border-radius: 40px;
 }
 
 .fifth-sect-form button span {
-    width: 80.19%;
+    width: 99.19%;
     height: 21px;
     font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -1579,25 +1579,13 @@ footer .icons-div a,
 
 footer {
     position: absolute !important;
-    /* width: 1240px;
-    height: 80px; */
     top: 6453px !important;
-    /* left: 100px;
-    right: 100px; */
-
-    /* background: #000000; */
     border-radius: 30px 30px 0px 0px !important;
-
-
 }
 
 footer h2 a {
-    /* position: absolute; */
     width: 151px;
     height: 29px;
-    /* left: 42px;
-    top: 26px; */
-
     font-family: 'Comfortaa', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -1607,11 +1595,9 @@ footer h2 a {
 }
 
 footer p {
-    /* position: absolute; */
     width: 297px;
     height: 46px;
-    /* left: 476px;
-    top: 34px; */
+
     font-family: 'Poppins', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -1624,13 +1610,8 @@ footer p span {
     color: #FF5757;
 }
 
-/* footer .icons-div {
-    position: relavite;
-    top: 34px;
-    left: 1113px; 
-}*/
-footer .icons-div a {
 
+footer .icons-div a {
     left: -0.000244140625px !important;
 }
 
