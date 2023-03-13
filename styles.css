@@ -1,12 +1,11 @@
 * {
     margin: 0;
     padding: 0;
-    /* overflow-x: visible; */
 }
 
-/* body {
-    width: 100%;
-} */
+body {
+    overflow-x: hidden;
+}
 
 #home-page {
     position: relative;
@@ -24,7 +23,7 @@
 }
 
 footer,
-#home-page-header {
+#header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -39,7 +38,7 @@ footer,
 }
 
 footer h2 a,
-#home-page-header h2 a {
+#header h2 a {
     color: #FF5757;
     font-weight: 700;
     font-family: 'Comfortaa', sans-serif;
@@ -479,7 +478,7 @@ li a {
 
 #second-section-part2-header {
     position: absolute;
-    width: 44.09%;
+    width: 50.09%;
     height: auto;
     left: 27.9%;
     top: 54px;
@@ -1622,4 +1621,9 @@ footer .fa-facebook {
     left: 82%;
 }
 
-@media screen {}
+@media screen and (max-width: 768px) {
+    .triangle-container {
+        left: 0px;
+    }
+
+}
